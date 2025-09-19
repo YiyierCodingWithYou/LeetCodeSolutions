@@ -7,7 +7,7 @@
 		/// </summary>
 		/// <param name="strs"></param>
 		/// <returns></returns>
-		public string FindLongestCommonPrefix(string[] strs)
+		public string FindLongestCommonPrefixA(string[] strs)
 		{
 			var result = "";
 
@@ -35,6 +35,33 @@
 			}
 
 			return result;
+		}
+
+		public string FindLongestCommonPrefixB(string[] strs)
+		{
+
+			if (strs == null || strs.Length == 0)
+			{
+				return "";
+			}
+
+			// 直接使用第一個字串作為基準
+			var prefix = strs[0];
+			for (int i = 1; i < strs.Length; i++)
+			{
+				// 當字串與基準不吻合時，就縮短基準的一個字母
+				while (!strs[i].StartsWith(prefix))
+				{
+					prefix = prefix.Substring(0,prefix.Length - 1);
+
+					if (prefix == "")
+					{
+						return "";
+					}
+				}
+			}
+
+			return prefix;
 		}
 	}
 }
