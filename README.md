@@ -7,4 +7,5 @@
 250918 Easy - Palindrome Number: implement two solutions (reverse string, half string comparison)  
 250919 Easy - Roman to Integer: implement solution using right-to-left traversal and lastInteger comparison  
 250919 Easy - Longest Common Prefix: implement two solutions (vertical scan using shortest string length, horizontal scan by shrinking base string)  
-250921 Med. - Add Two Numbers: add two numbers represented as reversed linked lists using per-node addition with carry
+250921 Med. - Add Two Numbers: add two numbers represented as reversed linked lists using per-node addition with carry  
+250923 Easy - Valid Parentheses: implement stack-based solution to validate bracket matching and order
