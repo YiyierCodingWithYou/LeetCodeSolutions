@@ -11,3 +11,4 @@
 250923 Easy - Valid Parentheses: implement stack-based solution to validate bracket matching and order  
 250925 Easy - Merge Two Sorted Lists: implement two solutions (A: collect + sort, B: in-place merge by pointer comparison)  
 250930 Easy - Remove Duplicates from Sorted Array: implement two-pointer solution to overwrite duplicates in-place and return unique count  
+250930 Easy - Remove Element: implement two-pointer overwrite method
