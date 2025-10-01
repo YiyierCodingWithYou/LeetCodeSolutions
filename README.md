@@ -13,3 +13,4 @@
 250930 Easy - Remove Duplicates from Sorted Array: implement two-pointer solution to overwrite duplicates in-place and return unique count  
 250930 Easy - Remove Element: implement two-pointer overwrite method  
 250930 Easy - Find the Index of the First Occurrence in a String: implement substring sliding window search  
+251002 Med. - Longest Substring Without Repeating Characters: implement sliding window with HashSet to track duplicates and adjust window  
