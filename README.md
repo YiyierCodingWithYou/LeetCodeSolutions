@@ -14,3 +14,4 @@
 250930 Easy - Remove Element: implement two-pointer overwrite method  
 250930 Easy - Find the Index of the First Occurrence in a String: implement substring sliding window search  
 251002 Med. - Longest Substring Without Repeating Characters: implement sliding window with HashSet to track duplicates and adjust window  
+251002 Easy - Score of a String: implement loop to sum absolute ASCII differences of adjacent characters  
