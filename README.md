@@ -18,4 +18,4 @@
 251006 Med. - Longest Palindromic Substring: implement expand-around-center approach to find the longest palindrome substring  
 251009 Easy - Search Insert Position: implement binary search to find target index or insertion position in sorted array  
 251009 Easy - Length of Last Word: implement Trim and Split to return the length of the last word  
-251011 Easy - Plus One: implement right-to-left array addition to increment a large integer by one  
+251009 Easy - Plus One: implement right-to-left array addition to increment a large integer by one  
