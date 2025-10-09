@@ -16,3 +16,4 @@
 251002 Med. - Longest Substring Without Repeating Characters: implement sliding window with HashSet to track duplicates and adjust window  
 251002 Easy - Score of a String: implement loop to sum absolute ASCII differences of adjacent characters  
 251006 Med. - Longest Palindromic Substring: implement expand-around-center approach to find the longest palindrome substring  
+251009 Easy - Search Insert Position: implement binary search to find target index or insertion position in sorted array  
