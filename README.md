@@ -17,4 +17,4 @@
 251002 Easy - Score of a String: implement loop to sum absolute ASCII differences of adjacent characters  
 251006 Med. - Longest Palindromic Substring: implement expand-around-center approach to find the longest palindrome substring  
 251009 Easy - Search Insert Position: implement binary search to find target index or insertion position in sorted array  
-251010 Easy - Length of Last Word: implement Trim and Split to return the length of the last word  
+251009 Easy - Length of Last Word: implement Trim and Split to return the length of the last word  
