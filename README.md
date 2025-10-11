@@ -19,4 +19,4 @@
 251009 Easy - Search Insert Position: implement binary search to find target index or insertion position in sorted array  
 251009 Easy - Length of Last Word: implement Trim and Split to return the length of the last word  
 251009 Easy - Plus One: implement right-to-left array addition to increment a large integer by one  
-251012 Medium - Zigzag Conversion: implement efficient string rearrangement using row tracking and string.Concat for final result   
+251012 Med. - Zigzag Conversion: implement efficient string rearrangement using row tracking and string.Concat for final result   
