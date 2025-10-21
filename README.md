@@ -22,3 +22,4 @@
 251012 Med. - Zigzag Conversion: implement efficient string rearrangement using row tracking and string.Concat for final result   
 251016 Easy - Divisible and Non-divisible Sums Difference: use a loop to sum numbers not divisible by m and numbers divisible by m separately, then return the difference  
 251016 Easy - Build Array from Permutation: create a new array where each element is nums[nums[i]] by iterating through the original array  
+251021 Medium - Merge Intervals: sort intervals by start value, merge overlapping ones  
