@@ -25,3 +25,4 @@
 251021 Med. - Merge Intervals: sort intervals by start value, merge overlapping ones  
 251021 Med. - 3Sum: use sorting + two-pointer approach to find all unique triplets summing to zero  
 251023 Easy - Add Binary: used two pointers to simulate binary addition from the end of the strings, added digits with carry handling, and reversed the result string to get the correct output  
+251023 Easy - Sqrt(x): use binary search to find the largest integer whose square ≤ x; avoid overflow by casting mid to long during comparison  
