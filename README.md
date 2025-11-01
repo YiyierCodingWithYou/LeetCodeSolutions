@@ -26,3 +26,5 @@
 251021 Med. - 3Sum: use sorting + two-pointer approach to find all unique triplets summing to zero  
 251023 Easy - Add Binary: used two pointers to simulate binary addition from the end of the strings, added digits with carry handling, and reversed the result string to get the correct output  
 251023 Easy - Sqrt(x): use binary search to find the largest integer whose square ≤ x; avoid overflow by casting mid to long during comparison  
+251101 Easy - Climbing Stairs: calculate the number of distinct ways to reach the top of a staircase where each step can be 1 or 2, using dynamic programming  
+251101 Easy - Remove Duplicates from Sorted List: Traverse the sorted linked list with a single pointer, skipping nodes with duplicate values to remove duplicates  
