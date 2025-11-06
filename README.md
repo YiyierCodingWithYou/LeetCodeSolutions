@@ -1,7 +1,6 @@
 # LeetCodeSolutions
 刷題記錄
 
-
 230916 Easy - TwoSum: implement O(n^2) solution using nested loops  
 250918 Easy - TwoSum: implement O(n) solution using Dictionary  
 250918 Easy - Palindrome Number: implement two solutions (reverse string, half string comparison)  
@@ -30,3 +29,6 @@
 251101 Easy - Remove Duplicates from Sorted List: Traverse the sorted linked list with a single pointer, skipping nodes with duplicate values to remove duplicates  
 251103 Easy - Find the Maximum Achievable Number: derive x = num + 2 × t based on maximum relative movement of 2 per operation; return num + 2 * t  
 251103 Easy - Concatenation of Array: create a new array of size 2n and fill it using a conditional check  
+251106 Med. - Integer to Roman: build mapping table of values and symbols, iterate from largest to smallest value, append corresponding Roman symbols while subtracting from num, and return the concatenated result.  
+
+# 251106 新增NUnit專案
