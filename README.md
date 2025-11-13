@@ -29,6 +29,8 @@
 251101 Easy - Remove Duplicates from Sorted List: Traverse the sorted linked list with a single pointer, skipping nodes with duplicate values to remove duplicates  
 251103 Easy - Find the Maximum Achievable Number: derive x = num + 2 × t based on maximum relative movement of 2 per operation; return num + 2 * t  
 251103 Easy - Concatenation of Array: create a new array of size 2n and fill it using a conditional check  
-251106 Med. - Integer to Roman: build mapping table of values and symbols, iterate from largest to smallest value, append corresponding Roman symbols while subtracting from num, and return the concatenated result.  
+251106 Med. - Integer to Roman: build mapping table of values and symbols, iterate from largest to smallest value, append corresponding Roman symbols while subtracting from num, and return the concatenated result  
+251113 Easy - Same Tree: recursively compare two binary trees by checking null conditions, value equality, and subtree equivalence  
+251113 Med. - Reverse Integer: implemented both string-based and math-based approaches with overflow handling  
 
 # 251106 新增NUnit專案
